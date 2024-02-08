@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="btn_Camara">Camara</string>
+    <string name="iv_visor">visor</string>
+    <string name="btn_Image">Subir Imagen</string>
+    <string name="textViewResult">Mostrar Texto</string>
+</resources>
